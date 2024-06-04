@@ -16,3 +16,5 @@ https://www.keil.com/demo/eval/arm.htm
 
 stm32f0-disco led blink
 https://letanphuc.net/2015/02/stm32f0-tutorial-gpio-blinking-led-cubemx-keil-source-insight/
+stm32f0-disco datasheet
+https://octopart.com/datasheet/stm32f072rbt6-stmicroelectronics-34084849

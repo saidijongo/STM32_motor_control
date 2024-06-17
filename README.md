@@ -28,3 +28,6 @@ https://octopart.com/datasheet/stm32f072rbt6-stmicroelectronics-34084849
 stm32 on arduino ide
 https://www.instructables.com/Quick-Start-to-STM-Nucleo-on-Arduino-IDE/
 
+controller sch photo
+http://grauonline.de/wordpress/wp-content/uploads/jy01.png
+

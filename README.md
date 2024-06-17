@@ -34,3 +34,6 @@ http://grauonline.de/wordpress/wp-content/uploads/jy01.png
 JY01 controller chip
 http://space.cechina.cn/infosharedownload.aspx?id=1435
 
+BLDC motor simulation
+http://www.sosw.poznan.pl/tfitzer/pmsm/
+

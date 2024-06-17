@@ -25,3 +25,6 @@ https://octopart.com/datasheet/stm32f072rbt6-stmicroelectronics-34084849
 
 ![image](https://github.com/saidijongo/STM32_motor_control/assets/31678025/b0d5a707-8139-4728-893d-5db449279b8f)
 
+stm32 on arduino ide
+https://www.instructables.com/Quick-Start-to-STM-Nucleo-on-Arduino-IDE/
+

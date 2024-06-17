@@ -31,3 +31,6 @@ https://www.instructables.com/Quick-Start-to-STM-Nucleo-on-Arduino-IDE/
 controller sch photo
 http://grauonline.de/wordpress/wp-content/uploads/jy01.png
 
+JY01 controller chip
+http://space.cechina.cn/infosharedownload.aspx?id=1435
+

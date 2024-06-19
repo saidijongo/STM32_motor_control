@@ -39,6 +39,7 @@ Nucleo board
 https://www.emcu-homeautomation.org/MIEI/Funny/QSG-Mbed-Library.pdf
 
 BLDC motor simulation
+https://wiki.st.com/stm32mcu/wiki/STM32MotorControl:SDK_AC_induction_motor
 http://www.sosw.poznan.pl/tfitzer/pmsm/
 
 

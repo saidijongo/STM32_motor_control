@@ -1,0 +1,32 @@
+/*************************************************/
+ 
+  /*  STSPIN32G4 driver component initialization */
+ 
+  /*************************************************/
+ 
+  STSPIN32G4_init( &HdlSTSPING4 );
+ 
+  STSPIN32G4_reset( &HdlSTSPING4 );
+ 
+  STSPIN32G4_setVCC( &HdlSTSPING4, (STSPIN32G4_confVCC){ .voltage = _12V,
+ 
+                              .useNFAULT = true,
+ 
+                              .useREADY = false } );
+ 
+  STSPIN32G4_setVDSP( &HdlSTSPING4, (STSPIN32G4_confVDSP){ .deglitchTime = _4us,
+ 
+                               .useNFAULT = true } );
+ 
+  STSPIN32G4_clearFaults( &HdlSTSPING4 );
+     while (1)
+    {
+                 /* Any combination */
+		HAL_GPIO_WritePin(M1_PWM_UH_GPIO_Port, M1_PWM_UH_Pin, GPIO_PIN_RESET);
+		HAL_GPIO_WritePin(M1_PWM_UL_GPIO_Port, M1_PWM_UL_Pin, GPIO_PIN_RESET);
+		HAL_GPIO_WritePin(M1_PWM_VH_GPIO_Port, M1_PWM_VH_Pin, GPIO_PIN_RESET);
+		HAL_GPIO_WritePin(M1_PWM_VL_GPIO_Port, M1_PWM_VL_Pin, GPIO_PIN_RESET);
+		HAL_GPIO_WritePin(M1_PWM_WH_GPIO_Port, M1_PWM_WH_Pin, GPIO_PIN_RESET);
+		HAL_GPIO_WritePin(M1_PWM_WL_GPIO_Port, M1_PWM_WL_Pin, GPIO_PIN_RESET);
+		
+    }

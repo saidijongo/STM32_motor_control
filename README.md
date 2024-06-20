@@ -49,5 +49,7 @@ https://community.simplefoc.com/t/stm32g431rb-64-pin-custom-board/3437/5
 
 https://www.st.com/resource/en/reference_manual/rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
 
+https://device.report/manual/9917180 
+
 
 

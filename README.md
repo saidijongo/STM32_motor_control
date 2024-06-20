@@ -65,4 +65,7 @@ https://github.com/Scouttman/Arduino-FOC
 
 https://community.simplefoc.com/t/position-control-example-using-simplefocshield-and-stm32-nucleo-64/3499
 
+ARDUINO/STM32/ COMPARATOR LM339
+https://community.st.com/t5/stm32-mcus-motor-control/sensorless-bldc-motor-control-using-an-external-comparator-and/td-p/113088
+
 

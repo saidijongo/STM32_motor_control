@@ -56,5 +56,7 @@ https://github.com/lunakiller/EVSPIN32G4_FOC
 E-bike code
 https://github.com/GyrocopterLLC/ebike-g4
 
+STM32G431 FOC chat
+https://community.simplefoc.com/t/drv8353-and-stm32g474-schematic-review/4820/10
 
 

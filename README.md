@@ -21,6 +21,9 @@ https://letanphuc.net/2015/02/stm32f0-tutorial-gpio-blinking-led-cubemx-keil-sou
 stm32f0-disco datasheet
 https://octopart.com/datasheet/stm32f072rbt6-stmicroelectronics-34084849
 
+JY01 STM32 NUCLEO
+https://www.mikrocontroller.net/attachment/352938/BLDC_motors.pdf
+
 
 
 

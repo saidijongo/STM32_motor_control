@@ -63,4 +63,6 @@ STM32G431 FOC chat
 https://community.simplefoc.com/t/drv8353-and-stm32g474-schematic-review/4820/10
 https://github.com/Scouttman/Arduino-FOC
 
+https://community.simplefoc.com/t/position-control-example-using-simplefocshield-and-stm32-nucleo-64/3499
+
 

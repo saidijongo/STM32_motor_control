@@ -51,5 +51,8 @@ https://www.st.com/resource/en/reference_manual/rm0440-stm32g4-series-advanced-a
 
 https://device.report/manual/9917180 
 
+bldc motor control code
+https://github.com/lunakiller/EVSPIN32G4_FOC
+
 
 

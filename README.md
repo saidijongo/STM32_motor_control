@@ -53,6 +53,8 @@ https://device.report/manual/9917180
 
 bldc motor control code
 https://github.com/lunakiller/EVSPIN32G4_FOC
+E-bike code
+https://github.com/GyrocopterLLC/ebike-g4
 
 
 

@@ -42,5 +42,8 @@ BLDC motor simulation
 https://wiki.st.com/stm32mcu/wiki/STM32MotorControl:SDK_AC_induction_motor
 http://www.sosw.poznan.pl/tfitzer/pmsm/
 
+stm32g431rb community notes
+https://community.simplefoc.com/t/stm32g431rb-64-pin-custom-board/3437/5
+
 
 

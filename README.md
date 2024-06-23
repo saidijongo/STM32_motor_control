@@ -4,7 +4,6 @@ Controlling BLDC motors using stmf0 board
 https://controllerstech.com/how-to-interface-bldc-motor-with-stm32/
 file:///C:/Program%20Files%20(x86)/STMicroelectronics/MC_SDK_5.4.8/Release%20Notes%20for%20X-Cube-MCSDK.html
 
-
 Simply Modbus Master software
 https://www.simplymodbus.ca/download.htm
 https://controllerstech.com/modbus-7-stm32-as-slave-writing-coils/
@@ -23,10 +22,6 @@ https://octopart.com/datasheet/stm32f072rbt6-stmicroelectronics-34084849
 
 JY01 STM32 NUCLEO
 https://www.mikrocontroller.net/attachment/352938/BLDC_motors.pdf
-
-
-
-
 
 ![image](https://github.com/saidijongo/STM32_motor_control/assets/31678025/b0d5a707-8139-4728-893d-5db449279b8f)
 

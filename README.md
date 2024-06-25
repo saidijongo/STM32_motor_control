@@ -73,5 +73,6 @@ https://oshwlab.com/lysergicenemy/bldc_controller_f334_copy
 Hoverboard arduino bldc
 https://mad-ee.com/controlling-a-hoverboard-motor-with-a-simple-arduino/
 https://robofoundry.medium.com/cheaper-way-to-control-hoverboard-motors-79b02dd8a521
+https://mad-ee.com/easy-inexpensive-hoverboard-motor-controller/#speedpulseoutput
 
 

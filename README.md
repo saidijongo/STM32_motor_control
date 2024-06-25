@@ -1,4 +1,4 @@
-# STM32_motor_control
+ # STM32_motor_control
 Controlling BLDC motors using stmf0 board
 
 https://controllerstech.com/how-to-interface-bldc-motor-with-stm32/
@@ -69,6 +69,8 @@ https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
 
 Nucleo PCB
 https://oshwlab.com/lysergicenemy/bldc_controller_f334_copy
+
+file:///C:/Program%20Files%20(x86)/STMicroelectronics/MC_SDK_5.4.8/Release%20Notes%20for%20X-Cube-MCSDK.html
 
 Hoverboard arduino bldc
 https://mad-ee.com/controlling-a-hoverboard-motor-with-a-simple-arduino/

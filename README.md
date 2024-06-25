@@ -67,4 +67,7 @@ https://community.st.com/t5/stm32-mcus-motor-control/sensorless-bldc-motor-contr
 Blue pill PCB
 https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
 
+Nucleo PCB
+https://oshwlab.com/lysergicenemy/bldc_controller_f334_copy
+
 

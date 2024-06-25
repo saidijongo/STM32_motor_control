@@ -70,4 +70,8 @@ https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
 Nucleo PCB
 https://oshwlab.com/lysergicenemy/bldc_controller_f334_copy
 
+Hoverboard arduino bldc
+https://mad-ee.com/controlling-a-hoverboard-motor-with-a-simple-arduino/
+https://robofoundry.medium.com/cheaper-way-to-control-hoverboard-motors-79b02dd8a521
+
 

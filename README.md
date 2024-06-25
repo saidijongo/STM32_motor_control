@@ -64,4 +64,7 @@ https://community.simplefoc.com/t/position-control-example-using-simplefocshield
 ARDUINO/STM32/ COMPARATOR LM339
 https://community.st.com/t5/stm32-mcus-motor-control/sensorless-bldc-motor-control-using-an-external-comparator-and/td-p/113088
 
+Blue pill PCB
+https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
+
 

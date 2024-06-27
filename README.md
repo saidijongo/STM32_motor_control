@@ -89,4 +89,5 @@ https://www.mouser.kr/new/infineon/infineon-tls987xevalb-evaluation-boards/
 
 BLDC motor control paper
 https://www.politesi.polimi.it/retrieve/a81cb05c-c38b-616b-e053-1605fe0a889a/2018_04_Bianchi.pdf
+ http://www.cnczone.com/forums/open-source-controller-boards/283428-cnc.html
 

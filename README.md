@@ -82,4 +82,5 @@ http://stm32.kosyak.info/doc/stm32f10x__gpio_8h_source.html
 
 Space Vector PWM
 https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro
+https://www.ti.com/lit/an/spra524/spra524.pdf
 

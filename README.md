@@ -84,3 +84,6 @@ Space Vector PWM
 https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro
 https://www.ti.com/lit/an/spra524/spra524.pdf
 
+BLDC controller PCB
+https://www.mouser.kr/new/infineon/infineon-tls987xevalb-evaluation-boards/
+

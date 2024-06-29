@@ -80,15 +80,16 @@ https://mad-ee.com/easy-inexpensive-hoverboard-motor-controller/#speedpulseoutpu
 NUCLEO BOARD USES DOC LINK
 http://stm32.kosyak.info/doc/stm32f10x__gpio_8h_source.html
 
-Space Vector PWM
+Space Vector PWM, docs
 https://www.switchcraft.org/learning/2017/3/15/space-vector-pwm-intro
 https://www.ti.com/lit/an/spra524/spra524.pdf
+
 
 BLDC controller PCB
 https://www.mouser.kr/new/infineon/infineon-tls987xevalb-evaluation-boards/
 https://github.com/pekkaroi/bldc-drive/tree/master
 
-BLDC motor control paper
+BLDC motor control Thesis, for review
 https://www.politesi.polimi.it/retrieve/a81cb05c-c38b-616b-e053-1605fe0a889a/2018_04_Bianchi.pdf
  http://www.cnczone.com/forums/open-source-controller-boards/283428-cnc.html
 

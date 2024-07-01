@@ -96,6 +96,15 @@ https://www.politesi.polimi.it/retrieve/a81cb05c-c38b-616b-e053-1605fe0a889a/201
 F0B
  https://www.st.com/en/motor-drivers/stspin32f0b.html#documentation
 
-STSPIN32F0 bldc controller
+
+STSPIN32F0 bldc controller PCB
 https://github.com/issus/BLDC-Drive
 https://github.com/WarmT/BLDC-CTRL-UART
+https://github.com/WarmT/BLDC-controller/tree/master
+
+STSPIN32F0 bldc controller Code
+https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/tree/master
+https://github.com/AlkaMotors/STSPIN32F0-OpAmp-Interrupt-brushless-firmware/tree/master
+
+60V/ 80A mosfet
+https://www.st.com/resource/en/datasheet/std140n6f7.pdf

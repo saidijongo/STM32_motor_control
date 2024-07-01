@@ -77,6 +77,9 @@ https://mad-ee.com/controlling-a-hoverboard-motor-with-a-simple-arduino/
 https://robofoundry.medium.com/cheaper-way-to-control-hoverboard-motors-79b02dd8a521
 https://mad-ee.com/easy-inexpensive-hoverboard-motor-controller/#speedpulseoutput
 
+ STM32F4 HAL and LL drivers
+https://www.disca.upv.es/aperles/arm_cortex_m3/llibre/st/en.DM00105879.pdf
+
 NUCLEO BOARD USES DOC LINK
 http://stm32.kosyak.info/doc/stm32f10x__gpio_8h_source.html
 

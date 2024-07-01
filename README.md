@@ -111,3 +111,6 @@ https://www.st.com/resource/en/datasheet/std140n6f7.pdf
 
 STEVAL-SPIN3201 Parts
 https://www.farnell.com/datasheets/3742783.pdf
+
+NUCLEO-G431RB and X-NUCLEO-IHM16M1
+https://www.st.com/en/evaluation-tools/p-nucleo-ihm03.html#cad-resources

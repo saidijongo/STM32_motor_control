@@ -116,5 +116,7 @@ NUCLEO-G431RB and X-NUCLEO-IHM16M1
 https://www.st.com/en/evaluation-tools/p-nucleo-ihm03.html#cad-resources
 
 Virtual COM port
+https://shawnhymel.com/1795/getting-started-with-stm32-nucleo-usb-virtual-com-port/
 https://sites.google.com/site/terminalbpp/
 http://slemi.info/category/electronics-projects/stm32-programming/
+

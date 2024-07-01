@@ -114,3 +114,7 @@ https://www.farnell.com/datasheets/3742783.pdf
 
 NUCLEO-G431RB and X-NUCLEO-IHM16M1
 https://www.st.com/en/evaluation-tools/p-nucleo-ihm03.html#cad-resources
+
+Virtual COM port
+https://sites.google.com/site/terminalbpp/
+http://slemi.info/category/electronics-projects/stm32-programming/

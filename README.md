@@ -98,3 +98,4 @@ F0B
 
 STSPIN32F0 bldc controller
 https://github.com/issus/BLDC-Drive
+https://github.com/WarmT/BLDC-CTRL-UART

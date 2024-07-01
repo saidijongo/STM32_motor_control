@@ -96,3 +96,5 @@ https://www.politesi.polimi.it/retrieve/a81cb05c-c38b-616b-e053-1605fe0a889a/201
 F0B
  https://www.st.com/en/motor-drivers/stspin32f0b.html#documentation
 
+STSPIN32F0 bldc controller
+https://github.com/issus/BLDC-Drive

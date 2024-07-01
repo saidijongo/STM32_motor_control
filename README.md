@@ -108,3 +108,6 @@ https://github.com/AlkaMotors/STSPIN32F0-OpAmp-Interrupt-brushless-firmware/tree
 
 60V/ 80A mosfet
 https://www.st.com/resource/en/datasheet/std140n6f7.pdf
+
+STEVAL-SPIN3201 Parts
+https://www.farnell.com/datasheets/3742783.pdf

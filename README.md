@@ -124,3 +124,6 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://sites.google.com/site/terminalbpp/
 http://slemi.info/category/electronics-projects/stm32-programming/
 
+ESC STM32F103
+https://controllerstech.com/how-to-interface-bldc-motor-with-stm32/
+

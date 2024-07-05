@@ -133,3 +133,6 @@ https://fcc.report/FCC-ID/2A7OQ-666888/6032301
 BLDC MOTOR DRIVER ALLEGRO
 https://www.allegromicro.com/en/products/motor-drivers/bldc-drivers/a3930-1
 
+PAS SENSOR
+https://ebikes.ca/learn/pedal-assist.html
+

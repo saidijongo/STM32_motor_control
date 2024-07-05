@@ -130,3 +130,6 @@ https://controllerstech.com/how-to-interface-bldc-motor-with-stm32/
 JY02/JY02 COMPANY
 https://fcc.report/FCC-ID/2A7OQ-666888/6032301
 
+BLDC MOTOR DRIVER ALLEGRO
+https://www.allegromicro.com/en/products/motor-drivers/bldc-drivers/a3930-1
+

@@ -50,6 +50,7 @@ https://www.st.com/resource/en/reference_manual/rm0440-stm32g4-series-advanced-a
 
 https://device.report/manual/9917180 
 
+
 bldc motor control code
 https://github.com/lunakiller/EVSPIN32G4_FOC
 E-bike code
@@ -69,6 +70,7 @@ https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
 
 Nucleo PCB
 https://oshwlab.com/lysergicenemy/bldc_controller_f334_copy
+
 
 file:///C:/Program%20Files%20(x86)/STMicroelectronics/MC_SDK_5.4.8/Release%20Notes%20for%20X-Cube-MCSDK.html
 
@@ -108,6 +110,7 @@ https://github.com/WarmT/BLDC-controller/tree/master
 STSPIN32F0 bldc controller Code
 https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/tree/master
 https://github.com/AlkaMotors/STSPIN32F0-OpAmp-Interrupt-brushless-firmware/tree/master
+
 
 60V/ 80A mosfet
 https://www.st.com/resource/en/datasheet/std140n6f7.pdf

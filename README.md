@@ -139,3 +139,6 @@ https://www.allegromicro.com/en/products/motor-drivers/bldc-drivers/a3930-1
 PAS SENSOR
 https://ebikes.ca/learn/pedal-assist.html
 
+E-bike python code/git link
+https://github.com/OpenSourceEBike/EBike_EScooter_modular_DIY
+

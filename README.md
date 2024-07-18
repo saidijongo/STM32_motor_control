@@ -144,4 +144,5 @@ https://github.com/OpenSourceEBike/EBike_EScooter_modular_DIY
 
 Control logic 6-steps
 https://wiki.st.com/stm32mcu/wiki/STM32MotorControl:Motor_Control_Boards_Description
+https://www.hackster.io/greenpak/3-phase-brushless-dc-motor-control-with-hall-sensors-24220d
 

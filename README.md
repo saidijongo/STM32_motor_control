@@ -142,3 +142,6 @@ https://ebikes.ca/learn/pedal-assist.html
 E-bike python code/git link
 https://github.com/OpenSourceEBike/EBike_EScooter_modular_DIY
 
+Control logic 6-steps
+https://wiki.st.com/stm32mcu/wiki/STM32MotorControl:Motor_Control_Boards_Description
+

@@ -149,3 +149,7 @@ https://www.hackster.io/greenpak/3-phase-brushless-dc-motor-control-with-hall-se
 hall sensor decoder
 https://www.nxp.com/docs/en/application-note/AN2841.pdf
 
+Driver PCB
+https://www.ti.com/lit/ug/tiduay9/tiduay9.pdf
+https://www.monolithicpower.com/en/learning/resources/designing-a-brushless-motor-driver-circuit-with-the-mp6540
+

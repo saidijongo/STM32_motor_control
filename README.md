@@ -157,6 +157,7 @@ https://toshiba.semicon-storage.com/info/RD194-SCHEMATIC-01-E.pdf?did=151100
 
 Controller Design/ Hall current calc
 https://toshiba.semicon-storage.com/info/RD017-RGUIDE-02_E.pdf?did=150061
+https://www.ti.com/lit/ab/slya077/slya077.pdf?ts=1722904477104&ref_url=https%253A%252F%252Fwww.google.com%252F
 
 Regenerative Braking 
 https://repository.unika.ac.id/21821/1/Riyadi%20ISEE%202019.pdf

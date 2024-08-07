@@ -160,6 +160,8 @@ https://forum.allaboutcircuits.com/threads/bldc-controller-using-stm32-and-drv83
 Controller Design/ Hall current calc
 https://toshiba.semicon-storage.com/info/RD017-RGUIDE-02_E.pdf?did=150061
 https://www.ti.com/lit/ab/slya077/slya077.pdf?ts=1722904477104&ref_url=https%253A%252F%252Fwww.google.com%252F
+MC33039, NCV33039/MC33035
+https://www.onsemi.com/pdf/datasheet/mc33039-d.pdf
 
 Regenerative Braking 
 https://repository.unika.ac.id/21821/1/Riyadi%20ISEE%202019.pdf

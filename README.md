@@ -154,6 +154,8 @@ https://www.ti.com/lit/ug/tiduay9/tiduay9.pdf
 https://www.monolithicpower.com/en/learning/resources/designing-a-brushless-motor-driver-circuit-with-the-mp6540
 https://www.monolithicpower.com/en/learning/resources/designing-a-brushless-motor-driver-circuit-with-the-mp6540 
 https://toshiba.semicon-storage.com/info/RD194-SCHEMATIC-01-E.pdf?did=151100
+[community Chat]
+https://forum.allaboutcircuits.com/threads/bldc-controller-using-stm32-and-drv8301.178866/
 
 Controller Design/ Hall current calc
 https://toshiba.semicon-storage.com/info/RD017-RGUIDE-02_E.pdf?did=150061

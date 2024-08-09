@@ -175,3 +175,6 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3EZgEwA4AslkFZ1gGz
 
 BLDC motor/ hall sensor STM32 code
 https://github.com/FedorBel/bldc-driver/blob/master/src/bldc-sensored/main.c
+
+BLDC Motor/ Throttle STM32
+electricaldarkness.wordpress.com/2020/06/19/adc-pwm-variable-dutty-with-potentiometer-stm32f103c8t6-stm32cubeide-st-link/

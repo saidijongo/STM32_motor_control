@@ -180,3 +180,6 @@ https://github.com/FedorBel/bldc-driver/blob/master/src/bldc-sensored/main.c
 
 BLDC Motor/ Throttle STM32
 electricaldarkness.wordpress.com/2020/06/19/adc-pwm-variable-dutty-with-potentiometer-stm32f103c8t6-stm32cubeide-st-link/
+
+Touch sensor stm32
+https://www.st.com/content/ccc/resource/technical/document/application_note/group0/ed/0d/4d/87/04/1d/45/e5/DM00445657/files/DM00445657.pdf/jcr:content/translations/en.DM00445657.pdf

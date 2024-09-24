@@ -187,3 +187,7 @@ https://365.altium.com/files/C60A6DC0-C92D-11EB-A2F6-0A0ABF5AFC1B?openedFrom=CMW
 
 Touch sensor stm32
 https://www.st.com/content/ccc/resource/technical/document/application_note/group0/ed/0d/4d/87/04/1d/45/e5/DM00445657/files/DM00445657.pdf/jcr:content/translations/en.DM00445657.pdf
+
+
+Projects
+https://github.com/catphish/stm32_vfd/tree/master

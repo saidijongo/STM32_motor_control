@@ -191,3 +191,5 @@ https://www.st.com/content/ccc/resource/technical/document/application_note/grou
 
 Projects
 https://github.com/catphish/stm32_vfd/tree/master
+
+https://github.com/EFeru/hoverboard-firmware-hack-SIN/blob/main/Src/main.c [OFF SAFETY]

@@ -193,3 +193,5 @@ Projects
 https://github.com/catphish/stm32_vfd/tree/master
 
 https://github.com/EFeru/hoverboard-firmware-hack-SIN/blob/main/Src/main.c [OFF SAFETY]
+
+https://community.st.com/t5/stm32-mcus-embedded-software/what-camera-module-should-i-use-with-stm32f746g-discovery-board/td-p/84585?attachment-id=13307 [CAMERA]

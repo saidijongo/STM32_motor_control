@@ -198,3 +198,5 @@ https://community.st.com/t5/stm32-mcus-embedded-software/what-camera-module-shou
 https://github.com/ARM-software/ML-examples [ML]
 https://github.com/STMicroelectronics/stm32ai-modelzoo/tree/main[AUDIO GIT]
 https://www.pswpower.com/pages/download[BAFANG MANUAL]
+
+https://www.artekit.eu/stm32-usb-gamepad-interface/[joystick]

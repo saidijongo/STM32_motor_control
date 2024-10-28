@@ -8,6 +8,9 @@ Simply Modbus Master software
 https://www.simplymodbus.ca/download.htm
 https://controllerstech.com/modbus-7-stm32-as-slave-writing-coils/
 
+I2C with stm32
+https://web.archive.org/web/20210813122132/https://www.nxp.com/docs/en/user-guide/UM10204.pdf
+
 ws2812 led strip using stm32
 https://controllerstech.com/interface-ws2812-with-stm32/
 

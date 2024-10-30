@@ -206,3 +206,7 @@ https://www.artekit.eu/stm32-usb-gamepad-interface/[joystick]
 
 Hall sensors
 https://www.mikrocontroller.net/articles/STM32_BLDC_Control_with_HALL_Sensor
+
+BLDC motor RPI
+https://github.com/Solo-FL/SoloPy
+https://github.com/Solo-FL/SoloPy

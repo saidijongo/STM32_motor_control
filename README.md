@@ -203,3 +203,6 @@ https://github.com/STMicroelectronics/stm32ai-modelzoo/tree/main[AUDIO GIT]
 https://www.pswpower.com/pages/download[BAFANG MANUAL]
 
 https://www.artekit.eu/stm32-usb-gamepad-interface/[joystick]
+
+Hall sensors
+https://www.mikrocontroller.net/articles/STM32_BLDC_Control_with_HALL_Sensor

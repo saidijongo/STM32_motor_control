@@ -210,3 +210,6 @@ https://www.mikrocontroller.net/articles/STM32_BLDC_Control_with_HALL_Sensor
 BLDC motor RPI
 https://github.com/Solo-FL/SoloPy
 https://github.com/Solo-FL/SoloPy
+
+UART STM32L
+https://github.com/Oliv4945/STM32L052_Breadboard/tree/master/Src

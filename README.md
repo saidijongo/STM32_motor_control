@@ -213,3 +213,4 @@ https://github.com/Solo-FL/SoloPy
 
 UART STM32L
 https://github.com/Oliv4945/STM32L052_Breadboard/tree/master/Src
+https://github.com/Oliv4945/STM32L052_Breadboard/blob/master/Src/usart.c [UART]

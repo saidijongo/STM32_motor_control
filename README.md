@@ -216,7 +216,8 @@ https://github.com/Oliv4945/STM32L052_Breadboard/tree/master/Src
 https://github.com/Oliv4945/STM32L052_Breadboard/blob/master/Src/usart.c [UART]
 
 ![image](https://github.com/user-attachments/assets/fd3b0d0c-94e3-4efc-9db4-7c5b40922e10)
-![image](https://github.com/user-attachments/assets/c3ec40bc-9ab7-4e81-a3f2-6a1c90d4950a)
+![image](https://github.com/user-attachments/assets/fca7d830-9d35-4e9c-a158-7fbd819c00a9)
+
 
 
 
